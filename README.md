@@ -33,9 +33,6 @@
   <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 <br>
-
-<p align="center">
-    <img src="https://github.com/peyz21/peyz21/assets/64120482/f5dcd88d-59d8-459d-8663-0a712165fbce" alt="animated" />
-</p>
+   
 
 
